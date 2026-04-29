@@ -124,10 +124,11 @@ Para habilitar la pestaña Programador:
 
 ---
 
-📄 Licencia
-BSD 3-Clause
-Este proyecto está bajo la licencia BSD 3-Clause. Esto significa que puedes usar, modificar y distribuir este 
-código libremente, pero no puedes usar el nombre del autor para promocionar productos derivados sin permiso previo por escrito.
+## 📄 Licencia
+
+[BSD 3-Clause](https://choosealicense.com/licenses/bsd-3-clause/)
+
+Este proyecto está bajo la licencia BSD 3-Clause. Esto significa que puedes usar, modificar y distribuir este código libremente, pero **no puedes usar el nombre del autor para promocionar productos derivados** sin permiso previo por escrito.
 
 ---
 
