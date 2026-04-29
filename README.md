@@ -25,7 +25,7 @@ Este complemento lo soluciona:
 
 ### 1. Descargar el archivo
 
-Descarga el archivo `ColorCeldas.xlam` de este repositorio.
+Descarga el archivo `ColorCeldas.xlam` desde Releases.
 
 ### 2. Instalar en Excel
 
